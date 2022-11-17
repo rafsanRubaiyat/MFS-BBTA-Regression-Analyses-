@@ -8,5 +8,5 @@ The corresponding policymakers at Bangladesh Bank and the officials of the MFS o
 
 This is an exploratory quantitative research on MFS users’ data and MFS transactions’ data. The data have been collected from the Statistics Department of Bangladesh Bank. Two of the most common regression models: Linear Regression and Polynomial Regression have been deployed to quantify the influences of the number of rural agents and the number of rural female users over the total number trajectory. Three libraries have been used in the Notebook: Scikit-learn library for linear regression, Numpy for Polynomial Regression, and Matplotlib for plotting the data. The corresponding R-squared values (coefficient of determination) found are as follows: 
 
-<img source="https://i.imgur.com/KEkpqaM.png">
+<img src="https://i.imgur.com/KEkpqaM.png" alt="results" width="500" height="333">
 
