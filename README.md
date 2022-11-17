@@ -1,7 +1,5 @@
-# Linear and Polynomial Regression Analyses with Mobile Financial Services data
+# Linear and Polynomial Regression Analyses to find the scale of control the rural agents and the female users have over the total number and volume of MFS transactions in Bangladesh. 
 
-
-<h2>Linear and Polynomial Regression</h2>
 <h3>Independent variables: 1. Rural agent no, 2. Rural female account no. </h3>
 <h3>Dependent variables: 1. Total MFS transaction number, 2. Total MFS transaction amount. </h3>
 
